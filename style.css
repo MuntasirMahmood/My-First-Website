@@ -1,0 +1,18 @@
+.boldtext{
+    font-weight: bold;
+    color: navy
+
+}
+
+p{
+    text-align: justify;
+    font-family: Georgia;
+}
+
+h2{
+    text-align: center;
+}
+.links{
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+}
